@@ -28,4 +28,34 @@ Projeto acadêmico que implementa a função `calcularFrete()` em JavaScript e u
 - Test runner nativo do Node (`node:test` e `node:assert/strict`)
 - JavaScript ES Modules
 
+---
 
+## 📂 Estrutura do Projeto
+
+testes-automatizados/
+├── index.js # Função calcularFrete
+├── index.test.js # Testes automatizados CT01 a CT05
+└── package.json # Configuração do projeto
+
+yaml
+Copiar código
+
+---
+
+3. **Instalar dependências (não há dependências externas)**
+
+npm install
+
+---
+
+4. **Rodar os testes**
+
+npm test
+
+---
+
+📊 **Resultados dos Testes**
+
+npm test
+
+---
