@@ -33,8 +33,11 @@ Projeto acadêmico que implementa a função `calcularFrete()` em JavaScript e u
 ## 📂 Estrutura do Projeto
 
 testes-automatizados/
+
 ├── index.js # Função calcularFrete
+
 ├── index.test.js # Testes automatizados CT01 a CT05
+
 └── package.json # Configuração do projeto
 
 yaml
