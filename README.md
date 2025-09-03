@@ -42,20 +42,11 @@ Copiar código
 
 ---
 
-3. **Instalar dependências (não há dependências externas)**
+## Instalar dependências (não há dependências externas)
 
 npm install
 
----
-
-4. **Rodar os testes**
+## Rodar os testes
 
 npm test
 
----
-
-📊 **Resultados dos Testes**
-
-npm test
-
----
